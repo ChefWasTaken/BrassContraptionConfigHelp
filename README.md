@@ -18,4 +18,6 @@ if you add them as such you should have a slow working Brass Contraption or Bell
 * Barrage Duration : 3
 * Time Between Barrages : 0.4
 
+or use the command resetbcndefaults in the console and it should just set all the Base Values to default
+---
 if you have any further questions please Direct Message me at Discord : ChefImages#2827
